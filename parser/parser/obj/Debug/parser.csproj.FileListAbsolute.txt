@@ -1,0 +1,9 @@
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\bin\Debug\parser.exe.config
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\bin\Debug\parser.exe
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\bin\Debug\parser.pdb
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\bin\Debug\HtmlAgilityPack.dll
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\bin\Debug\HtmlAgilityPack.xml
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\obj\Debug\parser.exe
+c:\users\noire\documents\visual studio 2015\Projects\parser\parser\obj\Debug\parser.pdb
